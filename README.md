@@ -1,20 +1,17 @@
-## 📌 Sorria Prime - Odontologia Integrada & Estética Facial --- Landing Page
-Moderno e responsivo, desenvolvido como modelo para clínicas odontológicas e serviços de estética facial. 
+# 🏎️ Apex Auto Detail - Estética Automotiva Premium
 
-# Sobre o Projeto:
-Este projeto é um modelo de Landing Page para Alta conversão focado no setor da saúde e estética. O objetivo principal é apresentar os serviços da clínica de forma clara e elegante, construir autoridade através de depoimentos e facilitar a marcação de consultas diretamente via WhatsApp. 
+> Landing Page de Alta Conversão desenvolvida para estúdios de detalhamento automotivo, vitrificação e polimento técnico.
 
-# Principais Qualidades:
-**Design Totalmente Responsivo:* Adaptado para celulares, tablets e computadores.  <br>
+---
 
-*Integração com WhatsApp Nativo:* Formulário interativo que envia os dados da marcação diretamente formatados para o WhatsApp da clínica em questão.  <br>
+## 📌 Sobre o Projeto
 
-*FAQ Interativo:* Seção de perguntas frequentes com o formato sanfona (com o intuito de melhorar a experiência do usuário ao procurar dúvidas comun).  <br>
+Modelo de Landing Page moderna desenvolvida com foco no mercado automotivo de alta performance. Apresenta serviços de vitrificação 9H, polimento técnico, higienização detalhada e PPF com formulário de orçamento direto via WhatsApp.
 
-*Prova Social:* Seção dedicada aos feedbacks de clientes com avaliações de 5 estrelas.  <br>
+---
 
-## Tecnologias Utilizadas no Desenvolvimento
-**HTML5**<br>
-**Tailwind CSS**<br>
-**JavaScript**<br>
-**Lucide Icons**
+## ✨ Funcionalidades
+
+- 📱 Design responsivo e Dark Theme de alto apelo visual.
+- 💬 Formulário de orçamento interativo com envio direto para o WhatsApp.
+- ⚡ Seções completas: Serviços, Diferenciais, Sobre o Estúdio e Orçamento.
